@@ -1,0 +1,4 @@
+/vagrant/Skeleton/src/jvm/udacity/storm/spout/TestSpout.java
+/vagrant/Skeleton/src/jvm/udacity/storm/bolt/MySQLBolt.java
+/vagrant/Skeleton/src/jvm/udacity/storm/TempConversionTopology.java
+/vagrant/Skeleton/src/jvm/udacity/storm/bolt/ConversionBolt.java

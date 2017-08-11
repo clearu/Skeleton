@@ -1,0 +1,5 @@
+udacity/storm/spout/TestSpout.class
+udacity/storm/bolt/ConversionBolt.class
+udacity/storm/bolt/MySQLBolt.class
+udacity/storm/TempConversionTopology.class
+udacity/storm/TempConversionTopology$ConversionBolt.class
